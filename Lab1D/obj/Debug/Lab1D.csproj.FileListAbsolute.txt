@@ -1,0 +1,16 @@
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\bin\Debug\Lab1D.exe.config
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\bin\Debug\Lab1D.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\bin\Debug\Lab1D.pdb
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\obj\Debug\Lab1D.csproj.AssemblyReference.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\obj\Debug\Lab1D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\obj\Debug\Lab1D.csproj.CoreCompileInputs.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\obj\Debug\Lab1D.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-200\Projects\Lab1D\obj\Debug\Lab1D.pdb
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\bin\Debug\Lab1D.exe.config
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\bin\Debug\Lab1D.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\bin\Debug\Lab1D.pdb
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\obj\Debug\Lab1D.csproj.AssemblyReference.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\obj\Debug\Lab1D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\obj\Debug\Lab1D.csproj.CoreCompileInputs.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\obj\Debug\Lab1D.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab1D\obj\Debug\Lab1D.pdb
